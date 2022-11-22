@@ -1,0 +1,8 @@
+D:\phonebook\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe.config
+D:\phonebook\ConsolePhonebook\bin\Debug\ConsoleLibrary.exe
+D:\phonebook\ConsolePhonebook\bin\Debug\ConsoleLibrary.pdb
+D:\phonebook\ConsolePhonebook\obj\Debug\ConsolePhonebook.csproj.AssemblyReference.cache
+D:\phonebook\ConsolePhonebook\obj\Debug\ConsolePhonebook.csproj.SuggestedBindingRedirects.cache
+D:\phonebook\ConsolePhonebook\obj\Debug\ConsolePhonebook.csproj.CoreCompileInputs.cache
+D:\phonebook\ConsolePhonebook\obj\Debug\ConsoleLibrary.exe
+D:\phonebook\ConsolePhonebook\obj\Debug\ConsoleLibrary.pdb
